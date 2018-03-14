@@ -16,3 +16,16 @@
 </p>
 
 <br />
+## Run Application
+
+#### Install node
+you can download it from https://nodejs.org/en/download/
+#### Usage
+Demo
+```shell
+	$ git clone https://github.com/code3hr/Minifiedjs.git
+	$ cd the directory
+	$ node minified.js test.js
+```
+this should produce min_test.js
+
