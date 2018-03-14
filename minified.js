@@ -1,7 +1,7 @@
 const fs = require('fs');
 const args = process.argv;
 
-var [node, dir, file] = args;
+var file = args[2];
 fs.readFile(file, 'utf8', function(err, data) {
 
     data = data.replace(/[\s]+/g, "");
