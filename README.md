@@ -25,7 +25,9 @@ Demo
 ```shell
 	$ git clone https://github.com/code3hr/Minifiedjs.git
 	$ cd the directory
+	$ open cmd in pwd 
 	$ node minified.js test.js
+	$ this should produce min_test.js
 ```
-this should produce min_test.js
+
 
