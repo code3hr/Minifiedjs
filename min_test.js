@@ -1,0 +1,1 @@
+constfs=require('fs');constargs=process.argv;var[node,dir,file]=args;fs.readFile(file,'utf8',function(err,data){data=data.replace(/[\s]+/g,"");fs.writeFile('min_'+file,data,'utf-8',function(err){if(err)throwerr;console.log('filelistAsynccomplete');});});
