@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <b>Powerful yet light-weight, vanilla JavaScript engine to minify any source code, though making it run faster</b></br>
+  <b>Powerful yet light-weight, vanilla JavaScript engine to minify javascript source code, though making it run faster</b></br>
   <sub>Only ~4kb, no external dependency and highly customizable <sub>
 </p>
 
